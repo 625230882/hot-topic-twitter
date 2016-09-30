@@ -2,7 +2,10 @@
 
 start 2 terminal
 
-first terminal :  run python TopicPlot.py
+first terminal :  
 
-second terminal : run python run.py
+'''python TopicPlot.py'''
+
+second terminal : 
+''' python run.py'''
 
